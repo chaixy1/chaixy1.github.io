@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xinyue Chai is a student in Tsinghua University and a desinger.
+Xinyue Chai is a student in Tsinghua University and a desinger.He received his Bachelor of Engineering degree from Nanjing University of Aeronautics and Astronautics (NUAA) in 2022 and was admitted to Tsinghua University in 2023, where he is currently enrolled in the Interactive Media Design and Technology program. His main research interests are human-robot interaction and human-computer interaction for socially marginalized groups.
 
 
 # 🔥 News
