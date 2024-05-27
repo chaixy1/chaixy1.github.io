@@ -34,6 +34,7 @@ Xinyue Chai is a student in Tsinghua University and a desinger.
 Juanjuan Miao, **Xinyue Chai**, Xiaoqin Song, Tiechen Song
 
 [**Project**](https://ieeexplore.ieee.org/document/9846189)
+
 **Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 This paper examines sidelink (SL) resource allocation for the new radio vehicle-to-everything (NR-V2X) technology based on 5G networks, focusing on Vehicle-to-Vehicle (V2V) communication outside the coverage of 5G base stations. Using network slicing technology, V2V sidelinks utilize spectrum designated for ultra-reliable and low-latency communications (URLLC). To enhance energy efficiency and meet URLLC delay requirements, we propose a deep reinforcement learning (DRL) architecture with centralized training and distributed execution. A model using Double Deep Q-Network (DDQN) is trained to achieve these goals. Simulations show that our DDQN-based algorithm performs better in terms of energy efficiency and latency compared to other algorithms.
 </div>
