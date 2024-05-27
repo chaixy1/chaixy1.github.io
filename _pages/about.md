@@ -40,6 +40,20 @@ This paper examines sidelink (SL) resource allocation for the new radio vehicle-
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSIP 2021</div><img src='images/屏幕截图 2024-05-27 192707.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Q-learning Enabled Wireless Resource Allocation for 5G Network Based Vehicle-to-vehicle Communications](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+Shumo Wang, **Xinyue Chai**, Xiaoqin Song, Xin Liang
+
+[**Project**](https://ieeexplore.ieee.org/document/9689007)
+
+**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Vehicle-to-vehicle (V2V) communication is essential for intelligent transportation systems (ITS), requiring effective cooperation among vehicles. The main challenge is ensuring reliable transmission under latency conditions. This paper explores wireless resource allocation for 5G-based V2V communication, using network slicing to differentiate between V2V and vehicle-to-infrastructure (V2I) links. Formulating reliable transmission and latency constraints into optimization problems is difficult, so we use deep Q-learning for resource allocation. In our framework, each V2V link acts as an agent, learning to select sub-channels and transmission power through a designed reward system and training mechanism. Simulations show that V2V links can ensure successful message transmission while maximizing overall capacity.
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2021.05* Provincial Second Prize of the 17th Challenge Cup Extracurricular Academic Works Competition for Undergraduates
 - *2020.11* National Inspiration Scholarship of the People's Republic of China
