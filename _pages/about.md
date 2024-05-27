@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-ChaiXinyue is a student in Tsinghua University and a desinger.
+Xinyue Chai is a student in Tsinghua University and a desinger.
 
 
 # 🔥 News
