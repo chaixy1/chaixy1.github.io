@@ -29,7 +29,7 @@ Xinyue Chai is a student in Tsinghua University and a desinger.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIEEC 2022</div><img src='images/屏幕截图 2024-05-27 190655.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[A DDQN-based Energy-Efficient Resource Allocation Scheme for Low-Latency V2V communication](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**A DDQN-based Energy-Efficient Resource Allocation Scheme for Low-Latency V2V communication**
 
 Juanjuan Miao, **Xinyue Chai**, Xiaoqin Song, Tiechen Song
 
@@ -43,7 +43,7 @@ This paper examines sidelink (SL) resource allocation for the new radio vehicle-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSIP 2021</div><img src='images/屏幕截图 2024-05-27 192707.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Q-learning Enabled Wireless Resource Allocation for 5G Network Based Vehicle-to-vehicle Communications](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Deep Q-learning Enabled Wireless Resource Allocation for 5G Network Based Vehicle-to-vehicle Communications**
 
 Shumo Wang, **Xinyue Chai**, Xiaoqin Song, Xin Liang
 
