@@ -33,23 +33,18 @@ Xinyue Chai is a student in Tsinghua University and a desinger.
 
 Juanjuan Miao, **Xinyue Chai**, Xiaoqin Song, Tiechen Song
 
-[**Abstract**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Abstract**]([https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC](https://ieeexplore.ieee.org/document/9846189)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 This paper examines sidelink (SL) resource allocation for the new radio vehicle-to-everything (NR-V2X) technology based on 5G networks, focusing on Vehicle-to-Vehicle (V2V) communication outside the coverage of 5G base stations. Using network slicing technology, V2V sidelinks utilize spectrum designated for ultra-reliable and low-latency communications (URLLC). To enhance energy efficiency and meet URLLC delay requirements, we propose a deep reinforcement learning (DRL) architecture with centralized training and distributed execution. A model using Double Deep Q-Network (DDQN) is trained to achieve these goals. Simulations show that our DDQN-based algorithm performs better in terms of energy efficiency and latency compared to other algorithms.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.05* Provincial Second Prize of the 17th Challenge Cup Extracurricular Academic Works Competition for Undergraduates
+- *2020.11* National Inspiration Scholarship of the People's Republic of China
+- *2019.11* National Scholarships of the People's Republic of China
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - 2026.06 (expected)*, Tsinghua University, Interactive Media Design and Technology. 
+- *2018.09 - 2022.06*, Nanjing University of Aeronautics and Astronautics, Information Engineering. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
+# 💻 Interactive Media Projects
