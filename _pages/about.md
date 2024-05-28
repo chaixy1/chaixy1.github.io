@@ -78,6 +78,8 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 "Draw And Play" is an interactive game for children's drawing education. Existing drawing education emphasizes on color matching and drawing skills. In order to stimulate children's higher interest in drawing, this interactive game is developed, where children can use brushes to draw on the computer, and then based on the camera's motion capture, children can interact with the handwriting, which will stimulate more creativity. The project is developed based on Unity game engine and Mediapipe framework.
+
+（👈The video has no sound, it's not a playback problem on your computer 😉）
 </div>
 </div>
 
@@ -93,7 +95,7 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 This project focuses on developing a remote operation system for a robotic arm, leveraging the capabilities of MANUS motion capture gloves and a Realsense camera. The system captures the position and rotation information of the gloves through the Realsense camera, enabling precise control of the robotic arm's end effector. Additionally, the bending information from the motion capture gloves is used to control the finger movements of the robotic hand, allowing for intricate and accurate remote grasping and manipulation tasks.By integrating these advanced technologies, the system provides a seamless interface for operators to perform complex tasks from a distance, enhancing precision and efficiency in remote environments.
 
-（👈The video has no sound, it's not a playback problem on your computer haha😉）
+（👈The video has no sound, it's not a playback problem on your computer 😉）
 </div>
 </div>
 
