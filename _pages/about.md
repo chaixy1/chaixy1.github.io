@@ -63,29 +63,15 @@ Vehicle-to-vehicle (V2V) communication is essential for intelligent transportati
 - *2023.09 - 2026.06 (expected)*, Tsinghua University, Interactive Media Design and Technology. 
 - *2018.09 - 2022.06*, Nanjing University of Aeronautics and Astronautics, Information Engineering. 
 
-# 💻 Interactive Media Projects
+# 💻 Interactive Design Works
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Virbot</div><img src='images/Virbot.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VibroBot: A Wearable and Programmable Vibration Bot for Multichannel Tactile Guidance**
 
-**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 VibroBot is an innovative tactile interaction device designed to provide unique user experiences through multichannel tactile feedback. Each VibroBot weighs just 2.9 grams, making it lightweight yet powerful. It uses wireless communication to receive programmable signals, delivering six distinguishable vibration feedback patterns in real-time to guide precise finger movements. When worn on all five fingers, VibroBot works collaboratively to help users adjust each finger, achieving perfect hand gesture control. With VibroBot's guidance, users can perform accurate grabbing actions in virtual environments, correct gesture errors, and improve operational precision and efficiency.
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>
-      <video width="100%" controls>
-        <source src='images/RobotControl.mp4' type='video/mp4'>
-        Your browser does not support the video tag.
-      </video></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Deep Q-learning Enabled Wireless Resource Allocation for 5G Network Based Vehicle-to-vehicle Communications**
-
-**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Vehicle-to-vehicle (V2V) communication is essential for intelligent transportation systems (ITS), requiring effective cooperation among vehicles. The main challenge is ensuring reliable transmission under latency conditions. This paper explores wireless resource allocation for 5G-based V2V communication, using network slicing to differentiate between V2V and vehicle-to-infrastructure (V2I) links. Formulating reliable transmission and latency constraints into optimization problems is difficult, so we use deep Q-learning for resource allocation. In our framework, each V2V link acts as an agent, learning to select sub-channels and transmission power through a designed reward system and training mechanism. Simulations show that V2V links can ensure successful message transmission while maximizing overall capacity.
 </div>
 </div>
 
@@ -106,9 +92,23 @@ Vehicle-to-vehicle (V2V) communication is essential for intelligent transportati
   </div>
 <div class='paper-box-text' markdown="1">
 
-**Deep Q-learning Enabled Wireless Resource Allocation for 5G Network Based Vehicle-to-vehicle Communications**
+**Draw And Play ：Interactive Drawing Educational Tools**
 
-**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-Vehicle-to-vehicle (V2V) communication is essential for intelligent transportation systems (ITS), requiring effective cooperation among vehicles. The main challenge is ensuring reliable transmission under latency conditions. This paper explores wireless resource allocation for 5G-based V2V communication, using network slicing to differentiate between V2V and vehicle-to-infrastructure (V2I) links. Formulating reliable transmission and latency constraints into optimization problems is difficult, so we use deep Q-learning for resource allocation. In our framework, each V2V link acts as an agent, learning to select sub-channels and transmission power through a designed reward system and training mechanism. Simulations show that V2V links can ensure successful message transmission while maximizing overall capacity.
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+"Draw And Play" is an interactive game for children's drawing education. Existing drawing education emphasizes on color matching and drawing skills. In order to stimulate children's higher interest in drawing, this interactive game is developed, where children can use brushes to draw on the computer, and then based on the camera's motion capture, children can interact with the handwriting, which will stimulate more creativity. The project is developed based on Unity game engine and Mediapipe framework.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>
+      <video width="100%" controls>
+        <source src='images/RobotControl.mp4' type='video/mp4'>
+        Your browser does not support the video tag.
+      </video></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Remote Operation System of Robotic Arm Based On Inertial Motion-capture Gloves**
+
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+This project focuses on developing a remote operation system for a robotic arm, leveraging the capabilities of MANUS motion capture gloves and a Realsense camera. The system captures the position and rotation information of the gloves through the Realsense camera, enabling precise control of the robotic arm's end effector. Additionally, the bending information from the motion capture gloves is used to control the finger movements of the robotic hand, allowing for intricate and accurate remote grasping and manipulation tasks.By integrating these advanced technologies, the system provides a seamless interface for operators to perform complex tasks from a distance, enhancing precision and efficiency in remote environments.
 </div>
 </div>
