@@ -75,6 +75,18 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Lily.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lily's Night ：Arduino sensor-based somatosensory games**
+
+[**Project**](https://www.bilibili.com/video/BV1Pa4y1f7C8/?spm_id_from=333.999.0.0&vd_source=3fe344ae0b27126cbc716211cffe4197)
+
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+"Lily's Night" is a sensor game based on Arduino ultrasonic, the game is about a young man named Lily, in an attempt to jump off a building to commit suicide, from the heart burst out of the desire to survive, the player plays the falling Lily, through the climb to obtain the possibility of survival. The game aims to urge people to care more about their own mental health as well as those around them. The game is developed based on Unity3D game engine and Arduino ultrasonic sensor.
+</div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div><div class="badge"></div>
@@ -98,17 +110,6 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 "Draw And Play" is an interactive game for children's drawing education. Existing drawing education emphasizes on color matching and drawing skills. In order to stimulate children's higher interest in drawing, this interactive game is developed, where children can use brushes to draw on the computer, and then based on the camera's motion capture, children can interact with the handwriting, which will stimulate more creativity. The project is developed based on Unity game engine and Mediapipe framework.
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Lily.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Lily's Night ：Arduino sensor-based somatosensory games**
-
-**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-"Lily's Night" is a sensor game based on Arduino ultrasonic, the game is about a young man named Lily, in an attempt to jump off a building to commit suicide, from the heart burst out of the desire to survive, the player plays the falling Lily, through the climb to obtain the possibility of survival. The game aims to urge people to care more about their own mental health as well as those around them. The game is developed based on Unity3D game engine and Arduino ultrasonic sensor.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>
       <video width="100%" controls>
