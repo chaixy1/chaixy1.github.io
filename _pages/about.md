@@ -88,3 +88,27 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 Vehicle-to-vehicle (V2V) communication is essential for intelligent transportation systems (ITS), requiring effective cooperation among vehicles. The main challenge is ensuring reliable transmission under latency conditions. This paper explores wireless resource allocation for 5G-based V2V communication, using network slicing to differentiate between V2V and vehicle-to-infrastructure (V2I) links. Formulating reliable transmission and latency constraints into optimization problems is difficult, so we use deep Q-learning for resource allocation. In our framework, each V2V link acts as an agent, learning to select sub-channels and transmission power through a designed reward system and training mechanism. Simulations show that V2V links can ensure successful message transmission while maximizing overall capacity.
 </div>
 </div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div><div class="badge"></div>
+      <video width="100%" controls>
+        <source src='images/Canves2.mp4' type='video/mp4'>
+        Your browser does not support the video tag.
+      </video>
+    </div>
+    <div><div class="badge"></div>
+      <video width="100%" controls>
+        <source src='images/Canves3.mp4' type='video/mp4'>
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
+<div class='paper-box-text' markdown="1">
+
+**Deep Q-learning Enabled Wireless Resource Allocation for 5G Network Based Vehicle-to-vehicle Communications**
+
+**Abstract** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Vehicle-to-vehicle (V2V) communication is essential for intelligent transportation systems (ITS), requiring effective cooperation among vehicles. The main challenge is ensuring reliable transmission under latency conditions. This paper explores wireless resource allocation for 5G-based V2V communication, using network slicing to differentiate between V2V and vehicle-to-infrastructure (V2I) links. Formulating reliable transmission and latency constraints into optimization problems is difficult, so we use deep Q-learning for resource allocation. In our framework, each V2V link acts as an agent, learning to select sub-channels and transmission power through a designed reward system and training mechanism. Simulations show that V2V links can ensure successful message transmission while maximizing overall capacity.
+</div>
+</div>
