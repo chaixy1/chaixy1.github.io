@@ -99,6 +99,17 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Lily.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lily's Night ：Arduino sensor-based somatosensory games**
+
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+"Lily's Night" is a sensor game based on Arduino ultrasonic, the game is about a young man named Lily, in an attempt to jump off a building to commit suicide, from the heart burst out of the desire to survive, the player plays the falling Lily, through the climb to obtain the possibility of survival. The game aims to urge people to care more about their own mental health as well as those around them. The game is developed based on Unity3D game engine and Arduino ultrasonic sensor.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>
       <video width="100%" controls>
         <source src='images/RobotControl.mp4' type='video/mp4'>
