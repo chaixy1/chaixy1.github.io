@@ -40,6 +40,8 @@ Xinyue Chai is a student in Tsinghua University and a desinger.He received his B
 
 **VibroBot: A Wearable and Programmable Vibration Bot for Multichannel Tactile Guidance**
 
+**Submission in progress, for details, you can contact by mail**
+
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 VibroBot is an innovative tactile interaction device designed to provide unique user experiences through multichannel tactile feedback. Each VibroBot weighs just 2.9 grams, making it lightweight yet powerful. It uses wireless communication to receive programmable signals, delivering six distinguishable vibration feedback patterns in real-time to guide precise finger movements. When worn on all five fingers, VibroBot works collaboratively to help users adjust each finger, achieving perfect hand gesture control. With VibroBot's guidance, users can perform accurate grabbing actions in virtual environments, correct gesture errors, and improve operational precision and efficiency.
 </div>
