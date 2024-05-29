@@ -49,12 +49,24 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Lily.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Lily's Night ：Arduino sensor-based somatosensory games**
+**Lily's Night ：Arduino Sensor-based Somatosensory Games**
 
 [**Project**](https://www.bilibili.com/video/BV1Pa4y1f7C8/?spm_id_from=333.999.0.0&vd_source=3fe344ae0b27126cbc716211cffe4197)
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 "Lily's Night" is a sensor game based on Arduino ultrasonic, the game is about a young man named Lily, in an attempt to jump off a building to commit suicide, from the heart burst out of the desire to survive, the player plays the falling Lily, through the climb to obtain the possibility of survival. The game aims to urge people to care more about their own mental health as well as those around them. The game is developed based on Unity3D game engine and Arduino ultrasonic sensor.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Lily.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Lights On ：Multiplayer Decryption Game Online**
+
+[**Project**](https://www.bilibili.com/video/BV11G411D7GK/?spm_id_from=333.999.0.0&vd_source=3fe344ae0b27126cbc716211cffe4197)
+
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+"Lights On" is a multiplayer online puzzle game set in a mysterious world where two players enter parallel paths to explore and solve puzzles. Each path has its own unique environment and challenges. The paths are filled with lampposts and other mechanisms, and the two players work together to break through them. This project is developed based on Unity3D and Lua language.
 </div>
 </div>
 
