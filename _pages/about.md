@@ -58,7 +58,7 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Lily.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Light.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Lights On ：Multiplayer Decryption Game Online**
