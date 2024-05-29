@@ -21,8 +21,7 @@ Xinyue Chai is a student in Tsinghua University and a desinger.He received his B
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+🎉🎉 Expect a message from ordinary life！ 🎉🎉 
 
 # 📖 Educations
 - *2023.09 - 2026.06 (expected)*, Tsinghua University, Interactive Media Design and Technology. 
