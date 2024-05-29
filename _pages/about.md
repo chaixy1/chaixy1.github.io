@@ -17,8 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xinyue Chai is a student in Tsinghua University and a desinger.He received his Bachelor of Engineering degree from Nanjing University of Aeronautics and Astronautics (NUAA) in 2022 and was admitted to Tsinghua University in 2023, where he is currently enrolled in the Interactive Media Design and Technology program. His main research interests are human-robot interaction and human-computer interaction for socially marginalized groups.
+Xinyue Chai is a student in Tsinghua University and a desinger.He received his Bachelor of Engineering degree from [Nanjing University of Aeronautics and Astronautics (NUAA)](https://www.nuaa.edu.cn/) in 2022 and was admitted to Tsinghua University in 2023, where he is currently enrolled in the Interactive Media Design and Technology program. 
 
+Research Interests:
+- Smart Clothing Design
+- Assistive Technology For Socially Marginalized People（Social Inclusion & Empowerment through Technology 🌈）
+- Serious Games
 
 # 🔥 News
 🎉🎉 Expect a message from ordinary life！ 🎉🎉 
@@ -64,7 +68,7 @@ Master Trainer is a sci-fi game of Artificial Intelligence and Reinforcement Lea
 [**Project**](https://www.bilibili.com/video/BV1Pa4y1f7C8/?spm_id_from=333.999.0.0&vd_source=3fe344ae0b27126cbc716211cffe4197)
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-"Lily's Night" is a sensor game based on Arduino ultrasonic, the game is about a young man named Lily, in an attempt to jump off a building to commit suicide, from the heart burst out of the desire to survive, the player plays the falling Lily, through the climb to obtain the possibility of survival. The game aims to urge people to care more about their own mental health as well as those around them. The game is developed based on Unity3D game engine and Arduino ultrasonic sensor.
+"Lily's Night" is a sensor game based on Arduino ultrasonic, the game is about a young man named Lily, in an attempt to jump off a building to commit suicide, from the heart burst out of the desire to survive, the player plays the falling Lily, through the climb to obtain the possibility of survival. The game aims to urge people to care more about their own mental health as well as those around them. The game is developed based on Unity3D game engine and [Arduino ultrasonic sensor](https://projecthub.arduino.cc/Isaac100/getting-started-with-the-hc-sr04-ultrasonic-sensor-7cabe1).
 </div>
 </div>
 
@@ -116,7 +120,7 @@ Master Trainer is a sci-fi game of Artificial Intelligence and Reinforcement Lea
 **Remote Operation System of Robotic Arm Based On Inertial Motion-capture Gloves**
 
 **Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-This project focuses on developing a remote operation system for a robotic arm, leveraging the capabilities of MANUS motion capture gloves and a Realsense camera. The system captures the position and rotation information of the gloves through the Realsense camera, enabling precise control of the robotic arm's end effector. Additionally, the bending information from the motion capture gloves is used to control the finger movements of the robotic hand, allowing for intricate and accurate remote grasping and manipulation tasks.By integrating these advanced technologies, the system provides a seamless interface for operators to perform complex tasks from a distance, enhancing precision and efficiency in remote environments.
+This project focuses on developing a remote operation system for a robotic arm, leveraging the capabilities of [MANUS motion capture gloves](https://www.manus-meta.com/) and a Realsense camera. The system captures the position and rotation information of the gloves through the [Realsense](https://www.intel.com/content/www/us/en/architecture-and-technology/realsense-overview.html) camera, enabling precise control of the robotic arm's end effector. Additionally, the bending information from the motion capture gloves is used to control the finger movements of the robotic hand, allowing for intricate and accurate remote grasping and manipulation tasks.By integrating these advanced technologies, the system provides a seamless interface for operators to perform complex tasks from a distance, enhancing precision and efficiency in remote environments.
 
 （👈The video has no sound, it's not a playback problem on your computer 😉）
 </div>
