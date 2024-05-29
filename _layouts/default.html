@@ -7,12 +7,10 @@ layout: compress
   <head>
     {% include head.html %}
     {% include head/custom.html %}
-    <!-- 引入Slick Carousel的CSS资源 -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.css">
   </head>
 
   <body>
+
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
@@ -28,26 +26,6 @@ layout: compress
         </div>
       </article>
     </div>
-
-    {% include scripts.html %}
-    <!-- 引入Slick Carousel的JavaScript资源 -->
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-    <script>
-      $(document).ready(function(){
-        $('.carousel-images').slick({
-          infinite: true,
-          slidesToShow: 1,
-          slidesToScroll: 1,
-          arrows: false,
-          dots: true,
-          vertical: true,
-          mousewheel: true
-        });
-      });
-    </script>
-  </body>
-</html>
 
     {% include scripts.html %}
 
