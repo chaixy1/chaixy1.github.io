@@ -46,6 +46,16 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Virbot</div><img src='images/master1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Training Master : Reinforcement Learning Science Game Based On Unity3D Game Engine**
+
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+Master Trainer is a sci-fi game of Artificial Intelligence and Reinforcement Learning. Players need to observe the different environments of each level and give commands to their pets according to the prompts. And the pet will follow the underlying logic of reinforcement learning and react accordingly to the player's instructions. It may be able to successfully accomplish the goal, or it may be very different from the trainer's original intention. We hope that the player will be able to subconsciously understand the concepts of action, environment, and reward in reinforcement learning. The game is developed based on Unity3D and the game is pre-trained using the [PPO algorithm](https://en.wikipedia.org/wiki/Proximal_policy_optimization).
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/Lily.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
