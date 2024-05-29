@@ -46,8 +46,14 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Virbot</div><img src='images/master1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="carousel-images">
+      <div><img src='images/master1.png' alt="Image 1"></div>
+      <div><img src='images/master2.png' alt="Image 2"></div>
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 **Training Master : Reinforcement Learning Science Game Based On Unity3D Game Engine**
 
