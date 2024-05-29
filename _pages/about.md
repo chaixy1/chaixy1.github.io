@@ -112,7 +112,7 @@ Master Trainer is a sci-fi game of Artificial Intelligence and Reinforcement Lea
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div>
       <video width="100%" controls>
-        <source src='images/RobotControl.mp4' type='video/mp4'>
+        <source src='images/robotarm.mp4' type='video/mp4'>
         Your browser does not support the video tag.
       </video></div></div>
 <div class='paper-box-text' markdown="1">
