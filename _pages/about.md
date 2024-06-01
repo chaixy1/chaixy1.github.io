@@ -25,7 +25,7 @@ Research Interests:
 - Serious Games
 
 # 🔥 News
-- *2024.06.02 - 2026.06.07* 🎉🎉 Workshop on Future Smart Wearable Haptic Fabrics at Tsinghua University's Future Laboratory 
+- *2024.06.02 - 2024.06.07* 🎉🎉 Workshop on Future Smart Wearable Haptic Fabrics at Tsinghua University's Future Laboratory 
 
 # 📖 Educations
 - *2023.09 - 2026.06 (expected)*, Tsinghua University, Interactive Media Design and Technology. 
