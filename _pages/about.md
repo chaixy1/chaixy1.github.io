@@ -32,6 +32,7 @@ Research Interests:
 - *2018.09 - 2022.06*, Nanjing University of Aeronautics and Astronautics, Information Engineering.
 
 # 🎖 Honors and Awards
+- *2022.06* First Prize for Outstanding Thesis at School Level
 - *2021.05* Provincial Second Prize of the 17th Challenge Cup Extracurricular Academic Works Competition for Undergraduates
 - *2020.11* National Inspiration Scholarship of the People's Republic of China
 - *2019.11* National Scholarships of the People's Republic of China 
