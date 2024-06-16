@@ -53,7 +53,7 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Virbot</div><img src='images/HapNav.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HapNav</div><img src='images/HapNav.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **HapNav: Design of Smart Navigation Wristband Based on Pneumatic Haptic Feedback**
