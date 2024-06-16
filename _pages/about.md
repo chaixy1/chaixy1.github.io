@@ -53,6 +53,18 @@ VibroBot is an innovative tactile interaction device designed to provide unique 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Virbot</div><img src='images/HapNav.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**HapNav: Design of Smart Navigation Wristband Based on Pneumatic Haptic Feedback**
+
+[**Project**](https://www.youtube.com/watch?v=JDz-a6aVFpo)
+
+**Introduction** <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+When using cell phone navigation in daily life, there may be a lot of inconvenience in using cell phone navigation in the scenarios such as cycling, driving, and traveling for people with sensory disabilities due to hand occupancy or limited access to the audiovisual senses. Therefore, we have developed this smart wearable wristband for the limited access to audio-visual senses, which utilizes the sense of touch for navigation. The feedback form is pneumatic, and different forms of airbag structures can be designed to produce different tactile experiences. The fabric is made of wool knit, which allows us to quickly design different styles and customize different colors and patterns in a short period of time.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/master22.png' alt="sym" width="100%"><img src='images/master11.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
