@@ -22,8 +22,8 @@ Xinyue Chai is a student in Tsinghua University and a desinger.He received his B
 [CV](https://drive.google.com/file/d/16gN7BkS5ygCLh719qNcswiJOYEYGaibo/view?usp=sharing)
 
 Research Interests:
-- Smart Clothing Design
-- Assistive Technology For Socially Marginalized People（Social Inclusion & Empowerment through Technology 🌈）
+- Soft Robotics Applications（Smart Clothing Design & Haptic Rendering）
+- LLM-based Collaboration in Socially Marginalized Communities（Social Inclusion & Empowerment through Technology 🌈）
 - Serious Games
 
 # 🔥 News
